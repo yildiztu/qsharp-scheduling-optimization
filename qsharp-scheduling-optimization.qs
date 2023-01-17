@@ -12,11 +12,12 @@ same time slot.
 Each participant has given his preference to which talk to attend, 
 from 1st preference to 8th preference. And each participant should
 attend 5 talks, one in each time slot.
-
-Problem: What talks should be scheduled in each time slot so to optimize the preferences?
 */
-// Ref. Link: http://www.amsterdamoptimization.com/scheduling.html
+/* 
+Problem: What talks should be scheduled in each time slot so to optimize the preferences?
 
+Ref. Link: http://www.amsterdamoptimization.com/scheduling.html
+*/
 
 open Microsoft.Quantum.Optimization;
 
